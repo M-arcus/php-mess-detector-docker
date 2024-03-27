@@ -5,6 +5,7 @@ contents:
     - https://packages.wolfi.dev/os
   packages:
     - wolfi-base
+    - curl
     - php-8.2
     - php-8.2-dom
     - php-8.2-mbstring
